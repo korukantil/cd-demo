@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "lkorukanti/cd-demo-app:latest"
+      "image": "lkorukanti/new-cicd-demo:latest"
     },
     "portMappings": [
       {
